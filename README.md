@@ -1,2 +1,1 @@
-# Express Nodejs Generated Application
-# Customized for Bluemix
+## Express EJS Starter APP
